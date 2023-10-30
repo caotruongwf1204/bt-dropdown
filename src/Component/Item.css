@@ -1,0 +1,36 @@
+.dropdown-item {
+    width: 150px;
+}
+
+.dropdown-btn {
+    width: 100%;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(159, 159, 159);
+    transition: background-color 0.3s;
+    color: #fff;
+    cursor: pointer;
+}
+.dropdown-btn:hover {
+    background-color: rgb(130, 130, 130);
+
+}
+.dropdown-menu {
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px 0;
+    list-style: none;
+    line-height: 2;
+    border-radius: 5px;
+    border: 1px solid #cbcbcb;
+}
+a {
+    text-decoration: none;
+    color: #000000;
+    padding: 0 5px;
+}
+li:hover {
+    background-color: rgb(242, 242, 242);
+
+}
